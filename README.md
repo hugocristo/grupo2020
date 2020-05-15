@@ -38,6 +38,13 @@ Scratch continua a rica linhagem de linguagens iniciadas por [Seymour Papert](ht
 * [Meios de combinação](https://scratch.mit.edu/projects/395095986)
 * [Meios de abstração](https://scratch.mit.edu/projects/395096229)
 
+**Material Scratch Day**
+
+Em 2012 desenvolvemos o material para o **Scratch Day Ufes**. O conteúdo apresenta a versão **anterior** do Scratch, mas os conceitos continuam os mesmos.
+
+* Versão A4 para impressão frente e verso - [PDF](pdf/Cartilha_ScratchDay_Loop.pdf)
+* Versão sequencial A4 - [PDF](pdf/Cartilha_ScratchDay_Loop.pdf)
+
 **Leituras e vídeos para 22/05**
 
 * Vídeos: [Birth of Basic](https://youtu.be/WYPNjSoDrqw) e [Curso de Basic](https://youtu.be/UeEEWKtrfPg)
@@ -47,7 +54,6 @@ Scratch continua a rica linhagem de linguagens iniciadas por [Seymour Papert](ht
 **Leituras e vídeos para 29/05**
 
 * Texto: [Sant'Anna, 2019](https://www.academia.edu/40364785/Revis%C3%A3o_cr%C3%ADtica_das_aplica%C3%A7%C3%B5es_de_aprendizado_de_m%C3%A1quina_no_Design_Visual_bases_te%C3%B3ricas_desempenho_dos_modelos_e_novos_paradigmas_de_projeto)
-)
 * Vídeos: [A História do Linux](https://youtu.be/sJKh8yq1Qdg) e [The Code](https://youtu.be/XMm0HsmOTFI)
 
 *Obs*: ative a legenda do vídeo e tradução automática para o português caso não consiga assistir em inglês.
