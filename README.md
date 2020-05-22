@@ -51,6 +51,15 @@ Em 2012 desenvolvemos o material para o **Scratch Day Ufes**. O conteúdo aprese
 
 ## 22/05: Basic
 
+A linguagem [Basic](https://pt.wikipedia.org/wiki/BASIC) foi desenvolvida por [John G. Kemeny](https://pt.wikipedia.org/wiki/John_George_Kemeny) e [Thomas E. Kurtz](https://pt.wikipedia.org/wiki/Thomas_Eugene_Kurtz) e lançada em 1964 no [Dartmouth College](https://home.dartmouth.edu/). No Brasil, foi muito utilizada nos anos 1980 em (micro)computadores domésticos das famílias [MSX](https://pt.wikipedia.org/wiki/MSX-BASIC) e [TK/ZX](https://pt.wikipedia.org/wiki/Sinclair_BASIC).
+
+**Vídeos e links**
+
+* [Seymour Papert](https://youtu.be/2lA0QZTbwJs) e [LOGO](https://pt.wikipedia.org/wiki/Logo)
+* [Máquinas de Turing](https://youtu.be/E3keLeMwfHY)
+* Microsoft disponibiliza [código-fonte](https://devblogs.microsoft.com/commandline/microsoft-open-sources-gw-basic/) do [GW-Basic](https://pt.wikipedia.org/wiki/GW-BASIC) (1983)
+* Passo a passo de programa em Basic no [Repl.it](https://repl.it/@hugocristo/IntroBasic)
+
 **Leituras e vídeos para 29/05**
 
 * Texto: [Sant'Anna, 2019](https://www.academia.edu/40364785/Revis%C3%A3o_cr%C3%ADtica_das_aplica%C3%A7%C3%B5es_de_aprendizado_de_m%C3%A1quina_no_Design_Visual_bases_te%C3%B3ricas_desempenho_dos_modelos_e_novos_paradigmas_de_projeto)
