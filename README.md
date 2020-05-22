@@ -58,6 +58,8 @@ A linguagem [Basic](https://pt.wikipedia.org/wiki/BASIC) foi desenvolvida por [J
 * [Seymour Papert](https://youtu.be/2lA0QZTbwJs) e [LOGO](https://pt.wikipedia.org/wiki/Logo)
 * [Máquinas de Turing](https://pt.wikipedia.org/wiki/M%C3%A1quina_de_Turing) e implementação moderna ([vídeo](https://youtu.be/E3keLeMwfHY))
 * Microsoft disponibiliza [código-fonte](https://devblogs.microsoft.com/commandline/microsoft-open-sources-gw-basic/) do [GW-Basic](https://pt.wikipedia.org/wiki/GW-BASIC) (1983)
+* [PC-Basic](https://robhagemans.github.io/pcbasic/): encarnação moderna do GW-Basic
+* [Tutorial de GW-Basic](http://www.o-bizz.de/qbtuts/gw-train/#1.1) (funciona com PC-Basic)
 * Passo a passo de programa em Basic no [Repl.it](https://repl.it/@hugocristo/IntroBasic)
 
 **Leituras e vídeos para 29/05**
