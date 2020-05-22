@@ -45,6 +45,12 @@ Em 2012 desenvolvemos o material para o **Scratch Day Ufes**. O conteúdo aprese
 * Versão A4 para impressão frente e verso - [PDF](pdf/Cartilha_ScratchDay_Loop.pdf)
 * Versão sequencial A4 - [PDF](pdf/Cartilha_ScratchDay_Loop.pdf)
 
+**Projetos desenvolvidos pelo grupo**
+
+* [orcas](https://scratch.mit.edu/projects/397462520)
+* [tocandoBorda](https://scratch.mit.edu/projects/397498827/)
+* [gol](https://scratch.mit.edu/projects/397853068)
+
 **Leituras e vídeos para 22/05**
 
 * Vídeos: [Birth of Basic](https://youtu.be/WYPNjSoDrqw) e [Curso de Basic](https://youtu.be/UeEEWKtrfPg)
