@@ -71,6 +71,7 @@ A linguagem [Basic](https://pt.wikipedia.org/wiki/BASIC) foi desenvolvida por [J
 
 * Primeira versão (sem velocidade e tamanho da tela) no [Repl.it](https://repl.it/@hugocristo/IntroOriginal)
 * Versão modificada [Repl.it](https://repl.it/@hugocristo/IntroBasic)
+* Atividade: desenhar primeira letra do nome em Basic ([exemplo](https://repl.it/@hugocristo/DesenhoRepete))
 
 **Leituras e vídeos para 29/05**
 
