@@ -66,7 +66,11 @@ A linguagem [Basic](https://pt.wikipedia.org/wiki/BASIC) foi desenvolvida por [J
 * Microsoft disponibiliza [código-fonte](https://devblogs.microsoft.com/commandline/microsoft-open-sources-gw-basic/) do [GW-Basic](https://pt.wikipedia.org/wiki/GW-BASIC) (1983)
 * [PC-Basic](https://robhagemans.github.io/pcbasic/): encarnação moderna do GW-Basic
 * [Tutorial de GW-Basic](http://www.o-bizz.de/qbtuts/gw-train/#1.1) (funciona com PC-Basic)
-* Passo a passo de programa em Basic no [Repl.it](https://repl.it/@hugocristo/IntroBasic)
+
+**Exemplos de código**
+
+* Primeira versão (sem velocidade e tamanho da tela) no [Repl.it](https://repl.it/@hugocristo/IntroOriginal)
+* Versão modificada [Repl.it](https://repl.it/@hugocristo/IntroBasic)
 
 **Leituras e vídeos para 29/05**
 
