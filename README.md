@@ -50,6 +50,7 @@ Em 2012 desenvolvemos o material para o **Scratch Day Ufes**. O conteúdo aprese
 * [orcas](https://scratch.mit.edu/projects/397462520)
 * [tocandoBorda](https://scratch.mit.edu/projects/397498827/)
 * [gol](https://scratch.mit.edu/projects/397853068)
+* [espaço dos doguinhos](https://scratch.mit.edu/projects/398226964/)
 
 **Leituras e vídeos para 22/05**
 
@@ -72,6 +73,13 @@ A linguagem [Basic](https://pt.wikipedia.org/wiki/BASIC) foi desenvolvida por [J
 * Primeira versão (sem velocidade e tamanho da tela) no [Repl.it](https://repl.it/@hugocristo/IntroOriginal)
 * Versão modificada [Repl.it](https://repl.it/@hugocristo/IntroBasic)
 * Atividade: desenhar primeira letra do nome em Basic ([exemplo](https://repl.it/@hugocristo/DesenhoRepete))
+
+**Projetos desenvolvidos pelo grupo**
+
+* [Lara](https://repl.it/repls/IdolizedActualSemicolon)
+* Jordan: [J](https://repl.it/@JordanEstacio/learnBasic) e [plotName](https://repl.it/@JordanEstacio/plotName)
+* Mayara: [M](https://repl.it/@MayaraAraujo/M), [coração psicodélico](https://repl.it/@MayaraAraujo/coracao-muitcho-doido) e [interativo](https://repl.it/@MayaraAraujo/Plota)
+* [Gisele](https://repl.it/@giselebrito/letra-G-i)
 
 **Leituras e vídeos para 29/05**
 
