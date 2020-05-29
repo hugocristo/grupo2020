@@ -102,6 +102,8 @@ Programas em C são [*compilados*](https://pt.wikipedia.org/wiki/Compilador), ou
 
 Essas características, em paralelo a outras técnicas de otimização do código, tornam C uma linguagem rápida e eficiente, utilizada em situações em que se exige o máximo desempenho do computador. Por outro lado, a programação em C é mais complexa e exige mais conhecimento e responsabilidade do programador.
 
+Utilizaremos C no [Repl.it](https://repl.it), embora o caminho mais comum seja instalar compiladores como [MinGW](http://mingw.org), [Visual Studio](https://visualstudio.microsoft.com/pt-br/) ou [LLVM](https://llvm.org/). 
+
 **Exemplos de código**
 
 * [C](https://repl.it/@hugocristo/IntroC)
