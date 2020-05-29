@@ -107,6 +107,7 @@ Utilizaremos C no [Repl.it](https://repl.it), embora o caminho mais comum seja i
 **Exemplos de código**
 
 * [C](https://repl.it/@hugocristo/IntroC)
+* Programa teste nas versões em [C](https://raw.githubusercontent.com/hugocristo/grupo2020/master/C%20e%20Assembler/teste.c) e [assembler](https://github.com/hugocristo/grupo2020/blob/master/C%20e%20Assembler/teste.s)
 
 # Licença
 
