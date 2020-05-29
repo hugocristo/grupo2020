@@ -80,6 +80,8 @@ A linguagem [Basic](https://pt.wikipedia.org/wiki/BASIC) foi desenvolvida por [J
 * Jordan: [J](https://repl.it/@JordanEstacio/learnBasic) e [plotName](https://repl.it/@JordanEstacio/plotName)
 * Mayara: [M](https://repl.it/@MayaraAraujo/M), [coração psicodélico](https://repl.it/@MayaraAraujo/coracao-muitcho-doido) e [interativo](https://repl.it/@MayaraAraujo/Plota)
 * [Gisele](https://repl.it/@giselebrito/letra-G-i)
+* [Edmundo](https://repl.it/@EdmundoJnior/E-teste-de-Basic)
+* Jenifer: [letra J](https://repl.it/@JeniferZamperli/letraJ) e [sad or happy](https://repl.it/@JeniferZamperli/sad-or-happy)
 
 **Leituras e vídeos para 29/05**
 
@@ -90,7 +92,19 @@ A linguagem [Basic](https://pt.wikipedia.org/wiki/BASIC) foi desenvolvida por [J
 
 ## 29/05: C
 
-Em breve!
+A linguagem C foi desenvolvida por [Dennis Ritchie](https://pt.wikipedia.org/wiki/Dennis_Ritchie) e nos [Laboratórios Bell](https://pt.wikipedia.org/wiki/Bell_Labs) nos anos 1970. Inicialmente dedicada à criação de programas utilitários para o sistema operacional [Unix](https://pt.wikipedia.org/wiki/Unix), foi utilizada na reescrita do núcleo do sistema e posteriormente adotada em inúmeras outras áreas. 
+
+Diferente de Scratch e Basic, C é *compilada*, *estaticamente tipada* e dispõe de recursos de *baixo nível* para acessar diretamente a memória e dispositivos do computador. 
+
+Linguagens [estaticamente tipadas](https://pt.wikipedia.org/wiki/Sistema_de_tipos) requerem que o programador defina a natureza dos tipos de dados que deseja utilizar &mdash; variáveis, funções etc. Em Basic utilizamos `let` e em Scratch simplesmente criamos variáveis, sem declarar se ela seria um número inteiro, real, cadeia de caracteres e assim por diante. Em C esta declaração é obrigatória e os usos das variáveis precisam ser respeitados ao longo do programa. 
+
+Programas em C são [*compilados*](https://pt.wikipedia.org/wiki/Compilador), ou seja, transformados na [linguagem de máquina](https://pt.wikipedia.org/wiki/C%C3%B3digo_de_m%C3%A1quina) específica para o computador e sistema operacional que os executarão. 
+
+Essas características, em paralelo a outras técnicas de otimização do código, tornam C uma linguagem rápida e eficiente, utilizada em situações em que se exige o máximo desempenho do computador. Por outro lado, a programação em C é mais complexa e exige mais conhecimento e responsabilidade do programador.
+
+**Exemplos de código**
+
+* [C](https://repl.it/@hugocristo/IntroC)
 
 # Licença
 
