@@ -47,10 +47,12 @@ Em 2012 desenvolvemos o material para o **Scratch Day Ufes**. O conteúdo aprese
 
 **Projetos desenvolvidos pelo grupo**
 
-* [orcas](https://scratch.mit.edu/projects/397462520)
-* [tocandoBorda](https://scratch.mit.edu/projects/397498827/)
-* [gol](https://scratch.mit.edu/projects/397853068)
-* [espaço dos doguinhos](https://scratch.mit.edu/projects/398226964/)
+* Jenifer: [orcas](https://scratch.mit.edu/projects/397462520)
+* Jordan: [tocandoBorda](https://scratch.mit.edu/projects/397498827/)
+* Alessandra: [gol](https://scratch.mit.edu/projects/397853068)
+* Gisele: [espaço dos doguinhos](https://scratch.mit.edu/projects/398226964/)
+* Roberta: [Sharpay x Tiara: HSM 3](https://scratch.mit.edu/projects/402411067/)
+* Edmundo: [a ave que não voa e seu plano pt.1](https://scratch.mit.edu/projects/402389803)
 
 **Leituras e vídeos para 22/05**
 
@@ -80,8 +82,10 @@ A linguagem [Basic](https://pt.wikipedia.org/wiki/BASIC) foi desenvolvida por [J
 * Jordan: [J](https://repl.it/@JordanEstacio/learnBasic) e [plotName](https://repl.it/@JordanEstacio/plotName)
 * Mayara: [M](https://repl.it/@MayaraAraujo/M), [coração psicodélico](https://repl.it/@MayaraAraujo/coracao-muitcho-doido) e [interativo](https://repl.it/@MayaraAraujo/Plota)
 * [Gisele](https://repl.it/@giselebrito/letra-G-i)
-* [Edmundo](https://repl.it/@EdmundoJnior/E-teste-de-Basic)
+* Edmundo: [E](https://repl.it/@EdmundoJnior/E-teste-de-Basic) e [E+1](https://repl.it/@EdmundoJnior/E-1-teste)
 * Jenifer: [letra J](https://repl.it/@JeniferZamperli/letraJ) e [sad or happy](https://repl.it/@JeniferZamperli/sad-or-happy)
+* [Roberta](https://repl.it/@queenrobm/minhaletrinha)
+* Izamar: [potinhos](https://repl.it/@IzamarRodrigues/potinhos#program.bas) e [letra I](https://repl.it/@IzamarRodrigues/letra-I#program.bas)
 
 **Leituras e vídeos para 29/05**
 
