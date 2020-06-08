@@ -53,6 +53,7 @@ Em 2012 desenvolvemos o material para o **Scratch Day Ufes**. O conteúdo aprese
 * Gisele: [espaço dos doguinhos](https://scratch.mit.edu/projects/398226964/)
 * Roberta: [Sharpay x Tiara: HSM 3](https://scratch.mit.edu/projects/402411067/)
 * Edmundo: [a ave que não voa e seu plano pt.1](https://scratch.mit.edu/projects/402389803)
+* Izamar: [comemorando](https://scratch.mit.edu/projects/401111971)
 
 **Leituras e vídeos para 22/05**
 
